@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\Colita2\bin\Debug\net8.0-windows\Producto.exe
+C:\Users\ASUS\source\repos\Colita2\bin\Debug\net8.0-windows\Producto.deps.json
+C:\Users\ASUS\source\repos\Colita2\bin\Debug\net8.0-windows\Producto.runtimeconfig.json
+C:\Users\ASUS\source\repos\Colita2\bin\Debug\net8.0-windows\Producto.dll
+C:\Users\ASUS\source\repos\Colita2\bin\Debug\net8.0-windows\Producto.pdb
+C:\Users\ASUS\source\repos\Colita2\obj\Debug\net8.0-windows\Producto.Form1.resources
+C:\Users\ASUS\source\repos\Colita2\obj\Debug\net8.0-windows\Producto.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Colita2\obj\Debug\net8.0-windows\Producto.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Colita2\obj\Debug\net8.0-windows\Producto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Colita2\obj\Debug\net8.0-windows\Producto.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Colita2\obj\Debug\net8.0-windows\Producto.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Colita2\obj\Debug\net8.0-windows\Producto.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Colita2\obj\Debug\net8.0-windows\Producto.dll
+C:\Users\ASUS\source\repos\Colita2\obj\Debug\net8.0-windows\refint\Producto.dll
+C:\Users\ASUS\source\repos\Colita2\obj\Debug\net8.0-windows\Producto.pdb
+C:\Users\ASUS\source\repos\Colita2\obj\Debug\net8.0-windows\Producto.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Colita2\obj\Debug\net8.0-windows\ref\Producto.dll

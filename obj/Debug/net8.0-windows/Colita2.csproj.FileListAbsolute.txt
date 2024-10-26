@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\Colita2\obj\Debug\net8.0-windows\Colita2.Form1.resources
+C:\Users\ASUS\source\repos\Colita2\obj\Debug\net8.0-windows\Colita2.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Colita2\obj\Debug\net8.0-windows\Colita2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Colita2\obj\Debug\net8.0-windows\Colita2.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Colita2\obj\Debug\net8.0-windows\Colita2.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Colita2\obj\Debug\net8.0-windows\Colita2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Colita2\bin\Debug\net8.0-windows\Colita2.exe
+C:\Users\ASUS\source\repos\Colita2\bin\Debug\net8.0-windows\Colita2.deps.json
+C:\Users\ASUS\source\repos\Colita2\bin\Debug\net8.0-windows\Colita2.runtimeconfig.json
+C:\Users\ASUS\source\repos\Colita2\bin\Debug\net8.0-windows\Colita2.dll
+C:\Users\ASUS\source\repos\Colita2\bin\Debug\net8.0-windows\Colita2.pdb
+C:\Users\ASUS\source\repos\Colita2\obj\Debug\net8.0-windows\Colita2.dll
+C:\Users\ASUS\source\repos\Colita2\obj\Debug\net8.0-windows\refint\Colita2.dll
+C:\Users\ASUS\source\repos\Colita2\obj\Debug\net8.0-windows\Colita2.pdb
+C:\Users\ASUS\source\repos\Colita2\obj\Debug\net8.0-windows\Colita2.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Colita2\obj\Debug\net8.0-windows\ref\Colita2.dll
+C:\Users\ASUS\source\repos\Colita2\obj\Debug\net8.0-windows\Colita2.Properties.Resources.resources
